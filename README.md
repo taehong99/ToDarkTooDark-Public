@@ -1,4 +1,10 @@
 ![TitleScene](https://github.com/user-attachments/assets/1feac335-fb86-4d63-aca9-8e5c75de25e2)
+<br/> <br/> 
+***public으로 전환하기 위해 SDK와 에셋들을 제거한 리포지토리입니다.***
+<br/> <br/> 
+![commits](https://github.com/user-attachments/assets/b2947568-feea-4c80-98bd-ccf905d398d0)
+&nbsp;*~~커밋 로그여 잘가거라...~~*
+
 
 <br/> <br/> 
 ## 📝 한 줄 소개
@@ -11,7 +17,7 @@
 ## 👨‍💻 개발 환경
 
 - 기간 : 2024. 06. 03 - 08. 13 (11 주)
-- 인원 : 9인 ( 기획 5인, 프로그래밍 4인)
+- 인원 : 9인 ( 기획 5인, 프로그래밍 4인 [@taehong99](https://github.com/taehong99) [@JunHyoung1428](https://github.com/JunHyoung1428) [@TWE1VE20](https://github.com/TWE1VE20) [@lhs960330](https://github.com/lhs960330) )
 - 사용 툴 : **Unity(2022.3.22)**, **Photon Pun2** , **Firebase SDK (Auth, Realtime Database)**,
      Visual Studio 2022, Fork, Jira
 
