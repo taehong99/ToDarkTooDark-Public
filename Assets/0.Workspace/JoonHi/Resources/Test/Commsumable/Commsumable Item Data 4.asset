@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc4f3c7e7e212d34ea4acea845ee65b1, type: 3}
+  m_Name: Commsumable Item Data 4
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  prefab: {fileID: 0}
+  ID: 0
+  Name: 
+  rarity: 4
+  itemType: 0
+  isPotion: 0
+  mainStat: 0
+  mainStatAmount: 0
+  subStat: 0
+  subStatAmount: 0
+  weight: 0
+  probability: 0
+  item: {fileID: 0}
+  maxDrops: 0
+  etcItemType: 
+  toolTip: 
+  cost: 250

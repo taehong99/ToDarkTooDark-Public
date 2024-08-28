@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc4f3c7e7e212d34ea4acea845ee65b1, type: 3}
+  m_Name: UsablaItem-143
+  m_EditorClassIdentifier: 
+  icon: {fileID: 7496477508670848267, guid: 39b4f9d48ae2ecf40a770956854d9448, type: 3}
+  prefab: {fileID: 0}
+  ID: 143
+  Name: "\uC5B8\uB370\uB4DC\uD654\uC2A4\uD06C\uB864"
+  rarity: 2
+  itemType: 0
+  mainStat: 0
+  mainStatAmount: 0
+  subStat: 0
+  subStatAmount: 0
+  weight: 0
+  toolTip: "10\uCD08\uAC04 \uD68C\uBCF5 \uD6A8\uACFC\uAC00 \uBC18\uB300\uB85C \uC801\uC6A9\r\n\uC9C0\uC18D\uC2DC\uAC04\uB3D9\uC548
+    \uACF5\uACA9\uB825 10% \uC0C1\uC2B9"

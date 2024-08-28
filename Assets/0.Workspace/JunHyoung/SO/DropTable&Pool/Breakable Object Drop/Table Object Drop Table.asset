@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c05fbc486a5dba34aa1ca3ec96e9f5db, type: 3}
+  m_Name: Table Object Drop Table
+  m_EditorClassIdentifier: 
+  goldDropRange: {x: 10, y: 20}
+  goldDropRate: 0.9
+  dropedItems:
+  - itemData: {fileID: 11400000, guid: 325f1c7fb5f22064eb8e69b831263959, type: 2}
+    dropCountRange: {x: 1, y: 3}
+    dropRate: 0.15
+  - itemData: {fileID: 11400000, guid: 5ce37c7109acc0c4aa3efe9b59436fa0, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.01
+  - itemData: {fileID: 11400000, guid: b7b855b4b8563114cb744854c42f1ef7, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.05
+  - itemData: {fileID: 11400000, guid: 5e59eca7cbb9ee140b97d81ceba05f92, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.05
+  - itemData: {fileID: 11400000, guid: 29c5e6e21fb90a04da0fce02f3133b71, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.05
+  - itemData: {fileID: 11400000, guid: 45c811c16e26fd34e95bf2f620d89e7f, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.05
+  - itemData: {fileID: 11400000, guid: 448a61696d7ae9946941b60d8f5437a7, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.05
+  - itemData: {fileID: 11400000, guid: 6ce1c413e1c602249a4151be9e0274ac, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.05
+  - itemData: {fileID: 11400000, guid: b76d4a1d1729d5a4eb50b47eed0969f1, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.05
+  - itemData: {fileID: 11400000, guid: f6fab69c337ed2347a7ab827660193ef, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.02
+  - itemData: {fileID: 11400000, guid: 9970dee004ecf46bdaa353f79f4302a7, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.02
+  - itemData: {fileID: 11400000, guid: fad154c1003b64ab9902b4797679fe60, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.01
+  - itemData: {fileID: 11400000, guid: b0a0ba22e1cb26b4694fd07de0e868b5, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.005
+  - itemData: {fileID: 11400000, guid: 7810bf53d22214d5f959f2ead7c2d453, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.003
+  - itemData: {fileID: 11400000, guid: 8c04a4dbc9ddd477ea96210ced8e61a5, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0012
+  - itemData: {fileID: 11400000, guid: 3d81a30106dd44b4b99d794065d060c2, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0006
+  - itemData: {fileID: 11400000, guid: 2301f320673a1487ab25d9a329fc0c66, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0015
+  - itemData: {fileID: 11400000, guid: ebd8e1a7598254872adc26acaae13e15, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0012
+  - itemData: {fileID: 11400000, guid: 103e942264a3f4d07b92bdfe332c9114, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0009

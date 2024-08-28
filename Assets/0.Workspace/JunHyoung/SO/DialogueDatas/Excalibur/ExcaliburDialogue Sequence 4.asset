@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca99dc4692eba914f95552a74fa07a10, type: 3}
+  m_Name: ExcaliburDialogue Sequence 4
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: 7af341186c69ca64eb34321d5ac669c5, type: 2}
+  - {fileID: 11400000, guid: 90a95b1f9c05e2d46aabd00096dbd9b1, type: 2}
+  - {fileID: 11400000, guid: 61a4d67e6faa15749a95e128dc748d74, type: 2}
+  - {fileID: 11400000, guid: f3c536b1b04630e4bbd3a5f7e014f123, type: 2}
+  - {fileID: 11400000, guid: 3ca7553e60acb6a47850a4a034c3145a, type: 2}
+  - {fileID: 11400000, guid: c5186a2c3a88fb04486cdb22810b8d0f, type: 2}
+  - {fileID: 11400000, guid: 97c9f432bad7a5d48a7aa3fe3ab9254e, type: 2}

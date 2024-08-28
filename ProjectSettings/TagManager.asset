@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Excalibur
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Minimap
+  - Light
+  - Item
+  - NPC
+  - Monster
+  - DeadBody
+  - Fullmap
+  - Exit
+  - Interactor
+  - Puzzle
+  - Ice
+  - Door
+  - Prop
+  - Projectile
+  - Room
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2645159237
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 152392175
+    locked: 0
+  - name: Secondery
+    uniqueID: 3840495733
+    locked: 0
+  - name: MinimapRoom
+    uniqueID: 3418496891
+    locked: 0

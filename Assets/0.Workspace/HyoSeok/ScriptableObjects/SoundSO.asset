@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc9f8aff125586144b93c2cdfa3099cc, type: 3}
+  m_Name: SoundSO
+  m_EditorClassIdentifier: 
+  StartBGM: {fileID: 8300000, guid: 121c35b279324ca4c9cac81478a8f3ab, type: 3}
+  PhaseBGM: {fileID: 8300000, guid: 327973629c1336e498de857a25fdefb5, type: 3}
+  SecretRoomBGM: {fileID: 8300000, guid: d050e09719f4015459a6efd6ad8daa14, type: 3}
+  TraderBGM: {fileID: 8300000, guid: a2da4a77c80a25645bb0c63ce226ee61, type: 3}
+  WaitingRoomBGM: {fileID: 8300000, guid: 4451dab93d13d844b8d9a85c15013a41, type: 3}
+  LobbyBGM: {fileID: 8300000, guid: 12b45aefce225ba4d95084adbdcc58ce, type: 3}
+  MainBGM: {fileID: 8300000, guid: cd29f82d50fc9d14bbab9d667d5457d0, type: 3}
+  StoreBGM: {fileID: 8300000, guid: 81a5b776660916848afddc5e208d17f9, type: 3}
+  TutorialBGM: {fileID: 8300000, guid: 9b85a3f5ad2c0bf4f80cc90c5d9475c2, type: 3}
+  CoinSFX: {fileID: 8300000, guid: cf599206c66c179449f146a518a83ed9, type: 3}
+  AccessoriesSFX: {fileID: 8300000, guid: 5f9b382ac97ccee4eb0a7f734974e352, type: 3}
+  SkillUpSFX: {fileID: 8300000, guid: 2f81c7bbead786341aa87e7f15dc5936, type: 3}
+  ArmorSFX: {fileID: 8300000, guid: c368437e630966b4a84fd37d8fda482e, type: 3}
+  LevelUpSFX: {fileID: 8300000, guid: ed0df623073589a41897353b4430c74d, type: 3}
+  WeaponSFX: {fileID: 8300000, guid: 9308faf9522283c49a4c7bbc1d70d11a, type: 3}
+  ReadySFX: {fileID: 8300000, guid: 6951a002f8c3bfe429e5f87ad4a35053, type: 3}
+  ReadyCacelSFX: {fileID: 8300000, guid: eed703ce7ff6f80419bfd83ee590a49a, type: 3}
+  WinSFX: {fileID: 8300000, guid: 6afe6ba7cff1c4f47b85374f36c2d932, type: 3}
+  DefeatSFX: {fileID: 8300000, guid: 0249e8796e6f5ee47b49b09e1e8932dc, type: 3}
+  EXAttackSFX: {fileID: 8300000, guid: 3ec8aa0e273ba634ba8ce987f3b633f1, type: 3}
+  EXSkill1SFX: {fileID: 8300000, guid: c487cdbe840fd9941b95637a476d1533, type: 3}
+  EXSkill2SFX: {fileID: 8300000, guid: fb5377b63ef8ec64ca7f32c64608a9ce, type: 3}
+  EXSkill2ChargieSFX: {fileID: 8300000, guid: 0811d5ed3007ded4eabd480f0ecd7214, type: 3}
+  EXSkill2ExplosionSFX: {fileID: 8300000, guid: ffa00057a89ba5a4caa593bb20009292, type: 3}
+  EXSkill3SFX: {fileID: 8300000, guid: 6813b12e2cfdd49469b82eb00b0b528f, type: 3}
+  EXSkill3MoveSoundSFX: {fileID: 8300000, guid: 0d6d465fa5e155a42899ad194c1289cb, type: 3}
+  ExJewelryInstalled1SFX: {fileID: 8300000, guid: b0b5349f023237f42a172f48757b9b85, type: 3}
+  ExJewelryInstalled2SFX: {fileID: 8300000, guid: 9dac997dab3d39c4cbd2a53f909e65ab, type: 3}
+  ExJewelryInstalled3SFX: {fileID: 8300000, guid: a32b34f22e53e3440a431f34124452f1, type: 3}
+  ExEquipped: {fileID: 8300000, guid: f094a0b3d053a8f4192e887f17fbb9cb, type: 3}
+  SecretRoom1SFX: {fileID: 8300000, guid: fb47e6cab5245c545acd1ce94374baf9, type: 3}
+  SecretRoom2SFX: {fileID: 8300000, guid: c7f17f0ce849fa1498865079c3d574fb, type: 3}
+  SecretRoomLastSFX: {fileID: 8300000, guid: e9b13f2a2b8c5344e932fe50e75320f8, type: 3}
+  GameStartSFX: {fileID: 8300000, guid: 38a44f96a984db54cbd73d65427b07bc, type: 3}
+  GameEndSFX: {fileID: 8300000, guid: ba35f62780519064d93df17e6962956b, type: 3}
+  OpenExcaliburSFX: {fileID: 8300000, guid: ca5271b6b955e9d468d69fc6f88c3451, type: 3}
+  FastExcaliburSFX: {fileID: 8300000, guid: c37d89e5c35b04a4195fb4e49344f226, type: 3}

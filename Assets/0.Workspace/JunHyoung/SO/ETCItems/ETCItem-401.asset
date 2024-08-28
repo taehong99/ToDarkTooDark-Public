@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc4f3c7e7e212d34ea4acea845ee65b1, type: 3}
+  m_Name: ETCItem-401
+  m_EditorClassIdentifier: 
+  icon: {fileID: -872366221, guid: 9351ccf6a3525114eb547b61f12c26c1, type: 3}
+  prefab: {fileID: 0}
+  ID: 401
+  Name: "\uC0C8\uD558\uC580 \uCE58\uC544"
+  rarity: 0
+  itemType: 2
+  isPotion: 0
+  mainStat: 0
+  mainStatAmount: 0
+  subStat: 0
+  subStatAmount: 0
+  weight: 0
+  probability: 0
+  item: {fileID: 0}
+  maxDrops: 10
+  etcItemType: "\uBAAC\uC2A4\uD130 \uBD80\uC0B0\uBB3C"
+  toolTip: "\uC2A4\uCF08\uB808\uD1A4\uC73C\uB85C\uBD80\uD130 \uC5BB\uC740 \uCE58\uC544.
+    \uAE54\uB054\uD55C \uCE58\uC544\uAD00\uB9AC\uC758 \uC601\uD5A5\uC73C\uB85C \uC0C8\uD558\uC597\uB2E4.
+    4\uB2E8\uC9C0 \uBC15\uC528 \uD560\uBA38\uB2C8\uC5D0\uAC8C \uAC00\uC838\uAC00\uBA74
+    \uD2C0\uB2C8\uB85C \uC81C\uC791\uD574\uC900\uB2E4\uACE0 \uD55C\uB2E4."
+  cost: 0

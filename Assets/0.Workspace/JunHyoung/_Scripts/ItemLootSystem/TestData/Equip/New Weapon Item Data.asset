@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 003e3e7b6aa9f3c4b887143c486faf86, type: 3}
+  m_Name: New Weapon Item Data
+  m_EditorClassIdentifier: 
+  icon: {fileID: -480376340, guid: da1142d2d88724ac4a7e0317d05be5b9, type: 3}
+  prefab: {fileID: 0}
+  ID: 6
+  Name: "\uD14C\uC2A4\uD2B8\uB3C4\uB07C"
+  rarity: 0
+  itemType: 1
+  mainStat: 0
+  mainStatAmount: 0
+  subStat: 0
+  subStatAmount: 0
+  weight: 100
+  probability: 0
+  toolTip: 
+  cost: 0
+  equipmentType: 2
+  equipmentGroup: 0
+  enhanceLevel: 0
+  affixes: []
+  weaponType: 1

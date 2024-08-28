@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2791be97eaa395b439c79e4d2567b4dd, type: 3}
+  m_Name: 02 Intermediate Grade Merchant
+  m_EditorClassIdentifier: 
+  Grade: 1
+  merchantSprite: {fileID: -1368163522, guid: 06ff7b2f9cba40949ab8c64f57a46580, type: 3}
+  shopSprite: {fileID: 21300000, guid: 621fd56233ce7c44dbf8e32bb08627aa, type: 3}
+  merchantName: "\uC911\uAE09 \uC0C1\uC778"
+  EquipCost:
+    _serializedList:
+    - Key: 1
+      Value: 60
+    - Key: 2
+      Value: 200
+    - Key: 3
+      Value: 500
+    - Key: 4
+      Value: 1500
+  KeyCost:
+    _serializedList: []
+  ItemCost:
+    _serializedList:
+    - Key: 0
+      Value: -0.1
+    - Key: 1
+      Value: 0
+    - Key: 3
+      Value: 0.3
+  SellCostRate: 20

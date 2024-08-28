@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca99dc4692eba914f95552a74fa07a10, type: 3}
+  m_Name: ItemsDialogue Sequence 5
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: bdf62ce9a144b1940ac787c4a41b8867, type: 2}
+  - {fileID: 11400000, guid: 7e0897491604c29428a196bb9a4a5de3, type: 2}
+  - {fileID: 11400000, guid: f836d757f30336142b742f7e5e8c24cf, type: 2}
+  - {fileID: 11400000, guid: 28ae02a6d9e85934d8381b3e548e78be, type: 2}

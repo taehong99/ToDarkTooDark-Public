@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca99dc4692eba914f95552a74fa07a10, type: 3}
+  m_Name: RewardsDialogue Sequence 1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: 24d19b8d573b29b45be5497d1304af22, type: 2}
+  - {fileID: 11400000, guid: de7ec48de956d4e4e90ac03830c5fb9e, type: 2}
+  - {fileID: 11400000, guid: ba3fc39644a511947859c18961ae5ea1, type: 2}

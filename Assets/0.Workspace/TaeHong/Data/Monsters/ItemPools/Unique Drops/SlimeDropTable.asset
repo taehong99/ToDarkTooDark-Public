@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bbfc64b264f24ac8855f230c1de0432, type: 3}
+  m_Name: SlimeDropTable
+  m_EditorClassIdentifier: 
+  dropTable:
+  - item: {fileID: 11400000, guid: d36c02b0963764cf1bedd8b9ee49173a, type: 2}
+    minDrops: 1
+    maxDrops: 10
+    dropRate: 40
+  - item: {fileID: 11400000, guid: b9d8d4520a21f498c9ea16e60a319365, type: 2}
+    minDrops: 1
+    maxDrops: 3
+    dropRate: 3
+  - item: {fileID: 11400000, guid: 7810bf53d22214d5f959f2ead7c2d453, type: 2}
+    minDrops: 1
+    maxDrops: 1
+    dropRate: 1
+  - item: {fileID: 11400000, guid: 103e942264a3f4d07b92bdfe332c9114, type: 2}
+    minDrops: 1
+    maxDrops: 1
+    dropRate: 0.5

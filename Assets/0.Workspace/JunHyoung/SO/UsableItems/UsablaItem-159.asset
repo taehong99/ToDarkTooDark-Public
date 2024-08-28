@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc4f3c7e7e212d34ea4acea845ee65b1, type: 3}
+  m_Name: UsablaItem-159
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 965f8673cd2f6154e98ab575334369da, type: 3}
+  prefab: {fileID: 0}
+  ID: 159
+  Name: "\uB3C8\uAE4C\uC2A4 \uB9DD\uCE58"
+  rarity: 3
+  itemType: 0
+  isPotion: 0
+  mainStat: 0
+  mainStatAmount: 0
+  subStat: 0
+  subStatAmount: 0
+  weight: 0
+  probability: 0
+  item: {fileID: 0}
+  maxDrops: 0
+  etcItemType: 
+  toolTip: "\uBC94\uC704\uB97C \uC9C0\uC815\uD558\uC5EC \uD574\uB2F9 \uBC94\uC704\uC5D0
+    \uAC70\uB300\uD55C \uB9DD\uCE58\uB97C \uB0B4\uB9AC\uCE68\r\n\uD53C\uACA9\uB41C
+    \uBAAC\uC2A4\uD130 \uBC0F \uD50C\uB808\uC774\uC5B4\uB294 \uCC0C\uBD80\uB418\uC5B4
+    \uAC00\uB85C\uAE38\uC774\uAC00 1\\2\uB85C \uC555\uCD95, \uC2AC\uB85C\uC6B0 \uC801\uC6A9"
+  cost: 0

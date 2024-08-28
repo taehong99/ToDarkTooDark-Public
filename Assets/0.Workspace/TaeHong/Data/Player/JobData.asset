@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0ddc3eae820403b98b671ff0fb74b0, type: 3}
+  m_Name: JobData
+  m_EditorClassIdentifier: 
+  swordsmanData:
+    job: 0
+    _name: "\uC804\uC0AC"
+    sprite: {fileID: -1630291424, guid: 06a541cc2417f4626af28cb734988056, type: 3}
+  archerData:
+    job: 1
+    _name: "\uAD81\uC218"
+    sprite: {fileID: -211726424, guid: 6d7da7cb722cf40deabcdd32209a94df, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bb0d563b2d2de4589c7675580f0d99, type: 3}
+  m_Name: ArmoredOrc
+  m_EditorClassIdentifier: 
+  _name: "\uC544\uBA38\uB4DC \uC624\uD06C"
+  movespeedMultiplier: 1.5
+  attackRange: 1
+  attackCooldown: 2
+  skill1Cooldown: 0
+  phaseStats:
+    power: 190000001e00000023000000280000002d000000
+    armor: 9cffffffa6ffffffb0ffffffc4ffffffceffffff
+    hp: a40100000d02000058020000bc02000052030000
+    exp: 69000000730000008200000096000000aa000000

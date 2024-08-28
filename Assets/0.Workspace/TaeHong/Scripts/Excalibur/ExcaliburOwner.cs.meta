@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0addfb7d909084b169dd9da722db0f4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - guideArrow: {instanceID: 0}
+  - flamePrefab: {fileID: 2509572554482513980, guid: d21b3450c4f424fb49facaf692350097, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

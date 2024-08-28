@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce88d56a0be46ee4d937c06f1f180b19, type: 3}
+  m_Name: Potion-101
+  m_EditorClassIdentifier: 
+  id: 101
+  sprite: {fileID: 7685375802458126026, guid: 49aacc5ce3627274d8f9a1a7a8024075, type: 3}
+  potionName: "\uB2AA\uC9C0\uC758 \uD3EC\uC158"
+  tooltip: "\uC2B5\uD558\uACE0 \uC794\uC794\uD55C \uB2AA\uC9C0\uC758 \uAE30\uC6B4\uC774
+    \uB2F4\uAE34 \uD3EC\uC158. \uC9C8\uD37D\uD55C \uC9C4\uD759\uACFC \uC740\uC740\uD55C
+    \uC774\uB07C\uD5A5\uC774 \uB290\uAEF4\uC9C4\uB2E4."

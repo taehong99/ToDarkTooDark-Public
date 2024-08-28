@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bb0d563b2d2de4589c7675580f0d99, type: 3}
+  m_Name: PhantonKnight
+  m_EditorClassIdentifier: 
+  _name: "\uD32C\uD140\uB098\uC774\uD2B8"
+  movespeedMultiplier: 2
+  attackRange: 2
+  attackCooldown: 2
+  skill1Cooldown: 0
+  phaseStats:
+    power: 23000000280000002f0000003700000041000000
+    armor: ceffffffd3ffffffd8ffffffe2ffffffecffffff
+    hp: 98080000fc0800006009000092090000c4090000
+    exp: e6000000ff0000000e0100002201000036010000

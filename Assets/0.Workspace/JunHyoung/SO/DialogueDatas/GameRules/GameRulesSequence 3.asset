@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca99dc4692eba914f95552a74fa07a10, type: 3}
+  m_Name: GameRulesSequence 3
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: ecfb88b291cc8244bb558a00d715e6e9, type: 2}
+  - {fileID: 11400000, guid: 32ea625b56f4ba041b9fbdd5621e3699, type: 2}
+  - {fileID: 11400000, guid: bac55f42f48be4c4eae35b333b616e13, type: 2}
+  - {fileID: 11400000, guid: d086840b5d9a48f42a1e2e86665aa06a, type: 2}
+  - {fileID: 11400000, guid: bac19d9a8d4a8fc468b62b08391d7082, type: 2}
+  - {fileID: 11400000, guid: 43e5edc6a00dfac428e5c9088b43ed39, type: 2}

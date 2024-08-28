@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88d9d14854b51f4faa78fe9b3500301, type: 3}
+  m_Name: Treasure Table D
+  m_EditorClassIdentifier: 
+  id: 9001
+  rarity: 0
+  typeWeightsDic:
+    _serializedList:
+    - Key: 1
+      Value: 10000
+    - Key: 0
+      Value: 10000
+    - Key: 2
+      Value: 10000
+    - Key: 3
+      Value: 10000
+  maximumDropCountDic:
+    _serializedList:
+    - Key: 0
+      Value: 0
+    - Key: 1
+      Value: 1
+    - Key: 2
+      Value: 0
+    - Key: 3
+      Value: 0
+  pools:
+  - {fileID: 11400000, guid: 3b409619f52fc894f94cc5f5ff2ab15d, type: 2}
+  - {fileID: 11400000, guid: 6078cf35c9aaa4b4ba72baef90031fd0, type: 2}
+  - {fileID: 11400000, guid: c50aa3c17c9e07348978055bf2d555b0, type: 2}
+  - {fileID: 11400000, guid: 2ab82e9480fb77a4d8490c56b1438690, type: 2}

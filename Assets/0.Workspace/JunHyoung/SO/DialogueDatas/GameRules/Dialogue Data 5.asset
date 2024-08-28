@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cd32bc81cee53c41a461a43b83c9aed, type: 3}
+  m_Name: Dialogue Data 5
+  m_EditorClassIdentifier: 
+  ID: 100205
+  script: "<size=125%>\uD56B\uD56B\uD558! </size>\uC6B0\uC2B9 \uC0C1\uAE08\uC744
+    \uD3D0\uD558\uAED8\uC11C \uC804\uBD80 \uBD80\uB2F4\uD558\uC2DC\uB2C8, \uADF8\uB807\uB2E4
+    \uD558\uB354\uB77C\uB3C4 \uBCC4 \uC218 \uC5C6\uC9C0 \uC54A\uC740\uAC00!"
+  teller: 1
+  sprite: {fileID: 21300000, guid: 96e1b2e031beb1c4380b2bb807216c85, type: 3}

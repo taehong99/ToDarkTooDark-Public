@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca99dc4692eba914f95552a74fa07a10, type: 3}
+  m_Name: MovementDialogue Sequence 1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: c012ddcf14bb1a24e9de0189b7eb9342, type: 2}
+  - {fileID: 11400000, guid: e248078717d360341b6d07558dd236fe, type: 2}
+  - {fileID: 11400000, guid: ace336ece18df154aa08f8e96e6947d1, type: 2}
+  - {fileID: 11400000, guid: 3862c90869376484ca81735a6c58775a, type: 2}
+  - {fileID: 11400000, guid: 0ae91f345f83df849b1d9cbc15087439, type: 2}
+  - {fileID: 11400000, guid: 2f622d9d2faef4e4a8d737f10988bde1, type: 2}
+  - {fileID: 11400000, guid: f273d87746bf5b541997e74828621bf6, type: 2}
+  - {fileID: 11400000, guid: 8ac687062e8da3541be9ce9d8089aa0c, type: 2}
+  - {fileID: 11400000, guid: c53e9e5d74e96344a85c7fb0889f53c8, type: 2}

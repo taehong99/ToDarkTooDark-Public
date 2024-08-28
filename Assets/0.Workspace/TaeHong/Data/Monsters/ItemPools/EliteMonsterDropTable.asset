@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88d9d14854b51f4faa78fe9b3500301, type: 3}
+  m_Name: EliteMonsterDropTable
+  m_EditorClassIdentifier: 
+  id: 0
+  rarity: 0
+  typeWeightsDic:
+    _serializedList:
+    - Key: 1
+      Value: 0
+    - Key: 0
+      Value: 0
+    - Key: 2
+      Value: 0
+    - Key: 3
+      Value: 0
+  maximumDropCountDic:
+    _serializedList: []
+  pools: []
+  equipmentPools:
+  - {fileID: 11400000, guid: 023af1a9c1d811e4f872dcb7b2b07162, type: 2}
+  - {fileID: 11400000, guid: 1320ca53df9d2f644879e316946cb3c1, type: 2}
+  - {fileID: 11400000, guid: 74d5c68e751de2042a60097469f24e53, type: 2}
+  - {fileID: 11400000, guid: 3332bc714efcce24d9341bf5fcbad77e, type: 2}
+  - {fileID: 11400000, guid: c66b69ed91ec2c84696e9a748441c47c, type: 2}
+  itemPools:
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}

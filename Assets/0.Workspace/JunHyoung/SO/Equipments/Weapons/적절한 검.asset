@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 003e3e7b6aa9f3c4b887143c486faf86, type: 3}
+  m_Name: "\uC801\uC808\uD55C \uAC80"
+  m_EditorClassIdentifier: 
+  icon: {fileID: -438336849881292653, guid: 9ecd79554b0761a46915488b873450d5, type: 3}
+  prefab: {fileID: 0}
+  ID: 240
+  Name: "\uC801\uC808\uD55C \uAC80"
+  rarity: 2
+  itemType: 1
+  isPotion: 0
+  mainStat: 1
+  mainStatAmount: 10
+  subStat: 0
+  subStatAmount: 0
+  weight: 100
+  probability: 0
+  item: {fileID: 0}
+  maxDrops: 0
+  etcItemType: 
+  toolTip: "\uC815\uB9D0 \uC644\uBCBD\uD558\uAC8C \uC801\uC808\uD569\uB2C8\uB2E4.
+    \uC774 \uD5D8\uD55C \uB358\uC804\uC5D0 \uB4E4\uC5B4\uC628 \uC0AC\uB78C\uC5D0\uAC8C
+    \uC120\uBB3C\uD558\uAE30 \uC88B\uC2B5\uB2C8\uB2E4."
+  cost: 0
+  equipmentType: 3
+  equipmentGroup: 4
+  enhanceLevel: 0
+  affixes: []
+  weaponType: 1

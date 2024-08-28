@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 003e3e7b6aa9f3c4b887143c486faf86, type: 3}
+  m_Name: "\uAC04\uB514\uBC14"
+  m_EditorClassIdentifier: 
+  icon: {fileID: 5779519070620289732, guid: 9ecd79554b0761a46915488b873450d5, type: 3}
+  prefab: {fileID: 0}
+  ID: 269
+  Name: "\uAC04\uB514\uBC14"
+  rarity: 3
+  itemType: 1
+  isPotion: 0
+  mainStat: 1
+  mainStatAmount: 15
+  subStat: 0
+  subStatAmount: 0
+  weight: 100
+  probability: 0
+  item: {fileID: 0}
+  maxDrops: 0
+  etcItemType: 
+  toolTip: "\uBC31\uB9CC\uB9AC \uB5A8\uC5B4\uC9C4 \uACF3\uC5D0\uC11C\uB3C4 \uC774
+    \uD65C\uC744 \uC3D8\uBA74 \uC54C \uC218 \uC788\uB2E4\uACE0 \uD569\uB2C8\uB2E4."
+  cost: 0
+  equipmentType: 3
+  equipmentGroup: 7
+  enhanceLevel: 0
+  affixes: []
+  weaponType: 2

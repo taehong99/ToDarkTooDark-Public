@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1da6b76146df149b82b00be3fa23e6, type: 3}
+  m_Name: 02 Archer
+  m_EditorClassIdentifier: 
+  job: 1
+  CharacterName: YD
+  CharacterSprite: {fileID: 246608628, guid: 2f01081d49d9bc74590381fc357857c6, type: 3}
+  animator: {fileID: 0}
+  cost: 0
+  weapon: 2

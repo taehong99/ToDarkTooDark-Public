@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c05fbc486a5dba34aa1ca3ec96e9f5db, type: 3}
+  m_Name: Weapons display stand Object Drop Table
+  m_EditorClassIdentifier: 
+  goldDropRange: {x: 10, y: 20}
+  goldDropRate: 0.9
+  dropedItems:
+  - itemData: {fileID: 11400000, guid: 5c140e4126f804095a1e10b3af1a339a, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.1
+  - itemData: {fileID: 11400000, guid: c0256707ad04b467da0b9fcaab20b1b2, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.05
+  - itemData: {fileID: 11400000, guid: f166dbc50f435483b867d481535d54de, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.01
+  - itemData: {fileID: 11400000, guid: 7810bf53d22214d5f959f2ead7c2d453, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.003
+  - itemData: {fileID: 11400000, guid: 8c04a4dbc9ddd477ea96210ced8e61a5, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0012
+  - itemData: {fileID: 11400000, guid: 3d81a30106dd44b4b99d794065d060c2, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0006
+  - itemData: {fileID: 11400000, guid: 4a769e2bfa4f14abb961974409b1459b, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.003
+  - itemData: {fileID: 11400000, guid: 3239810443fb140e8979c1d6e47775eb, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0017
+  - itemData: {fileID: 11400000, guid: ebd8e1a7598254872adc26acaae13e15, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0012
+  - itemData: {fileID: 11400000, guid: 103e942264a3f4d07b92bdfe332c9114, type: 2}
+    dropCountRange: {x: 1, y: 1}
+    dropRate: 0.0009

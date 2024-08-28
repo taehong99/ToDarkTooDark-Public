@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f9b4d88bb293354896d53351111d541, type: 3}
+  m_Name: "\uAC01\uC131\uD55C \uCE58\uBA85\uC758 \uBC18\uC9C0"
+  m_EditorClassIdentifier: 
+  icon: {fileID: -1926157403, guid: 0a286709e6e3faa4faa5bfe88a7b3775, type: 3}
+  prefab: {fileID: 0}
+  ID: 316
+  Name: "\uAC01\uC131\uD55C \uCE58\uBA85\uC758 \uBC18\uC9C0"
+  rarity: 4
+  itemType: 1
+  mainStat: 6
+  mainStatAmount: 15
+  subStat: 0
+  subStatAmount: 0
+  weight: 80
+  toolTip: "\uD06C\uB9AC\uD2F0\uCEEC \uD655\uB960\uC774 \uB9CE\uC774 \uB298\uC5B4\uB098\uB294
+    \uC7A5\uC2E0\uAD6C\uC785\uB2C8\uB2E4."
+  equipmentType: 2
+  equipmentGroup: 0

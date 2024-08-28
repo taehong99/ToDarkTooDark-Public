@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88d9d14854b51f4faa78fe9b3500301, type: 3}
+  m_Name: NormalMonsterDropTable
+  m_EditorClassIdentifier: 
+  id: 0
+  rarity: 0
+  typeWeightsDic:
+    _serializedList:
+    - Key: 1
+      Value: 0
+    - Key: 0
+      Value: 0
+    - Key: 2
+      Value: 0
+    - Key: 3
+      Value: 0
+  maximumDropCountDic:
+    _serializedList: []
+  pools: []
+  equipmentPools:
+  - {fileID: 11400000, guid: f2ec915e2d6da4343a043ad45af79f99, type: 2}
+  - {fileID: 11400000, guid: 5d98c05bdc70be04e86b9974c320de2e, type: 2}
+  - {fileID: 11400000, guid: 317bccedf7dd8b74594c1ceca1d84603, type: 2}
+  - {fileID: 11400000, guid: e093f782cf31e004186f9812d65b6c46, type: 2}
+  - {fileID: 11400000, guid: ffb843e855933e043b242606a4ea4286, type: 2}
+  itemPools:
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}
+  - {fileID: 11400000, guid: febcc800cf6e24880bcb2283a49b0c03, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bbfc64b264f24ac8855f230c1de0432, type: 3}
+  m_Name: ArmoredOrcDropTable
+  m_EditorClassIdentifier: 
+  dropTable:
+  - item: {fileID: 11400000, guid: 68023009ab56048e2b3c560ebc0fa209, type: 2}
+    minDrops: 6
+    maxDrops: 15
+    dropRate: 40
+  - item: {fileID: 11400000, guid: 8f70ea511bf2b48a58eba4a43f6f63d7, type: 2}
+    minDrops: 1
+    maxDrops: 10
+    dropRate: 30
+  - item: {fileID: 11400000, guid: 082faaa2d92114db788ca12226478935, type: 2}
+    minDrops: 3
+    maxDrops: 4
+    dropRate: 6
+  - item: {fileID: 11400000, guid: 8c04a4dbc9ddd477ea96210ced8e61a5, type: 2}
+    minDrops: 1
+    maxDrops: 1
+    dropRate: 10
+  - item: {fileID: 11400000, guid: 3d81a30106dd44b4b99d794065d060c2, type: 2}
+    minDrops: 1
+    maxDrops: 1
+    dropRate: 5
+  - item: {fileID: 11400000, guid: 103e942264a3f4d07b92bdfe332c9114, type: 2}
+    minDrops: 1
+    maxDrops: 1
+    dropRate: 1
