@@ -12,7 +12,7 @@ namespace ItemLootSystem
 
 
         /// <summary>
-        /// SerializedData로 ItemData 획득, Equip이나 Weapon인지도 자동으로 찾아서 반환. 쓸 때 캐스팅만 해주면 됨.
+        /// SerializedData로 ItemData 획득, Equip이나 Weapon인지도 자동으로 찾아서 반환. 제네릭으로 했었어야 했는데;;...
         /// </summary>
         /// <param name="serializedData"></param>
         /// <returns></returns>
