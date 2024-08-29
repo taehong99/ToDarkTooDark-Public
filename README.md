@@ -18,10 +18,8 @@
 
 - 기간 : 2024. 06. 03 - 08. 13 (11 주)
 - 인원 : 9인 ( 기획 5인, 프로그래밍 4인 [@taehong99](https://github.com/taehong99) [@JunHyoung1428](https://github.com/JunHyoung1428) [@TWE1VE20](https://github.com/TWE1VE20) [@lhs960330](https://github.com/lhs960330) )
-- 사용 툴 : **Unity(2022.3.22)**, **Photon Pun2** , **Firebase SDK (Auth, Realtime Database)**,
-     Visual Studio 2022, Fork, Jira
-
-
+- 사용 툴 : ``Unity(2022.3.22)`` ``Photon Pun2`` ``Firebase SDK(Auth, Realtime Database)``
+     ``Visual Studio 2022`` ``Fork`` ``Jira``
 
 <br></br>
 ## 📼 PV Video
