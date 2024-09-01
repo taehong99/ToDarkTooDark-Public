@@ -22,6 +22,13 @@
      ``Visual Studio 2022`` ``Fork`` ``Jira``
 
 <br></br>
+## 🧻 [My Role](https://github.com/JunHyoung1428/ToDarkTooDark-Public/tree/master/Assets/0.Workspace/JunHyoung/_Scripts)
+- 랜덤 맵 생성 시스템
+- 아이템 드랍 시스템 및 아이템 데이터 동기화
+- 튜토리얼 등...
+
+
+<br></br>
 ## 📼 PV Video
 
 <p align="center">
