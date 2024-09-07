@@ -43,8 +43,8 @@ namespace MapGenerator
      *          -> Step5,6 통합
      *          
      *  Step 7. 공동에 추가 방 생성, 인접한 방들을 순회하며, 확률에 따라 추가적으로 문과 복도 연결
-     *          -> 인접여부 검사 + 완전 인접시 문으로 연결(70%) , 거리가 떨어져 있을시  (50%) 확률로 복도로 연결  
-     *                V 복도의 양옆 끝은 늘 문으로 연결되어 있어야 하는가? 열린방이 존재 하는가?
+     *          -> 인접여부 검사 + 완전 인접시 문으로 연결
+     *                
      */
 
     public class MapGenerator : MonoBehaviour
@@ -69,7 +69,7 @@ namespace MapGenerator
         bool roomDistanceType = false;
         [Space(10)]
         //[SerializeField, Tooltip("각 Step 별 대기시간")] 
-        float waitTime;
+        float waitTime; //각 단계 확인용. 빌드시에는 0으로
 
         [Space(15)]
         [SerializeField] Transform parent;
@@ -319,8 +319,7 @@ namespace MapGenerator
                 if (normalRoom2 == null) continue;
 
                 newIndex += direction;
-
-                // tlqkf 추가 스폰룸 좌표 하드코딩 ㅠㅠ
+                
                 if (depth == genSpawnPointStep
                     || (newIndex == new Vector2(-3,-3)) || (newIndex == new Vector2(-3, 3))
                     || (newIndex == new Vector2(3, -3)) || (newIndex == new Vector2(3, 3)))
