@@ -22,10 +22,11 @@
      ``Visual Studio 2022`` ``Fork`` ``Jira``
 
 <br></br>
-## 🧻 [My Role](https://github.com/JunHyoung1428/ToDarkTooDark-Public/tree/master/Assets/0.Workspace/JunHyoung/_Scripts)
-- 랜덤 맵 생성 시스템
-- 아이템 드랍 시스템 및 아이템 데이터 동기화
-- 튜토리얼 등...
+## 🧻 [My Role](https://github.com/JunHyoung1428/ToDarkTooDark-Public/tree/master/Assets/0.Workspace/TaeHong/Scripts)
+- 인벤토리 시스템
+- 몬스터
+- 엑스칼리버 무기
+- Photon PUN2 네트워크 기능 구현 등...
 
 
 <br></br>
